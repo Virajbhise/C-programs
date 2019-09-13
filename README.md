@@ -1,2 +1,2 @@
 # C-programs
-Here is the C++ programs throughout my college practicals.
+Here are some C++ programs throughout my college practicals.
